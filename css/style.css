@@ -9768,3 +9768,8 @@ a.text-dark:hover, a.text-dark:focus {
   height: 400px;
   object-fit: cover;
 }
+
+.eventLocation{
+  color: red;
+  cursor: pointer;
+}
